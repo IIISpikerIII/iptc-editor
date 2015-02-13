@@ -1,5 +1,5 @@
 {
-    "name": "IIISpikerIII/iptc-editor",
+    "name": "iiispikeriii/iptc-editor",
     "description": "PHP editor iptc attributes images",
     "minimum-stability": "stable",
     "license": "proprietary",
@@ -13,8 +13,8 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-0": {
-            "HelloWorld": "src/"
-        }
+        "classmap": [
+            "src"
+        ]
     }
 }
