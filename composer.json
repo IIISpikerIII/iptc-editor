@@ -1,6 +1,8 @@
 {
     "name": "iiispikeriii/iptc-editor",
     "description": "PHP editor iptc attributes images",
+    "keywords": ["ipts", "image"],
+    "homepage": "https://github.com/IIISpikerIII/iptc-editor.git",
     "minimum-stability": "stable",
     "license": "proprietary",
     "authors": [
@@ -14,7 +16,7 @@
     },
     "autoload": {
         "classmap": [
-            "src"
+            "src/"
         ]
     }
 }

@@ -1,2 +1,2 @@
 # iptc-editor
-PHP editor iptc attributes images
+image PHP editor iptc attributes 
